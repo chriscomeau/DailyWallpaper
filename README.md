@@ -11,8 +11,7 @@ Daily Wallpaper for iOS
 * REST connection to custom PHP API
 * Image caching
 
-**Note**: This project is for reference only and does not compile. Some image/sound/API assets and libraries were removed.
-
+**Note**: This project is for reference only and does not compile. Some images/sounds/APIs/libraries were removed to prevent cloning. Also needs a good cleanup/refactoring.
 
 ##### Links
 
