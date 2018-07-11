@@ -15,6 +15,9 @@ Daily Wallpaper for iOS
 * [Web](http://dailywallpaperapp.com/)
 * [App Store](https://itunes.apple.com/app/id557949358)
 
-##### Screenshot
+##### Screenshots
 
-_(...)_
+![screenshot 1](http://dailywallpaperapp.com/images/screenshot1.jpg)
+![screenshot 2](http://dailywallpaperapp.com/images/screenshot2.jpg)
+![screenshot 3](http://dailywallpaperapp.com/images/screenshot3.jpg)
+
