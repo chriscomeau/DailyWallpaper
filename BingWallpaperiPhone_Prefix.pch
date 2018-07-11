@@ -1,0 +1,25 @@
+//
+// Prefix header for all source files of the 'BingWallpaperiPhone' target in the 'BingWallpaperiPhone' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+
+    //for afnetworking warning
+    #import <SystemConfiguration/SystemConfiguration.h>
+    #import <MobileCoreServices/MobileCoreServices.h>
+
+    #import "AFNetworking/AFNetworking.h"
+
+    #import "SDImageCache.h"
+    #import <SDWebImage/UIImageView+WebCache.h>
+    #import <SDWebImage/UIButton+WebCache.h>
+
+    //#import <Parse/Parse.h>
+    #import <GoogleMobileAds/GoogleMobileAds.h>
+
+    #import "Config.h"
+    #import "Helpers.h"
+
+#endif

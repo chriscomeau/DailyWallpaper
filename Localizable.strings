@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  FlashMafia
+
+  Created by Chris Comeau on 12/9/2013.
+  Copyright (c) 2013 face3media. All rights reserved.
+*/
+
+"kStringCancel" = "Cancel";
+"kStringOK" = "OK";
+"kStringNotImplemented" = "Not yet implemented.";
+"kStringConnectionError" = "Connection error";
+"kStringUnknownError" = "Unknown error";
+"kStringOffline" = "Offline";
+"kStringSimulator" = "Not available in Simulator";
+"kStringConnecting" = "Connecting...";
+"kStringInvalidImage" = "Invalid image";
+"kStringSuccess" = "Success";

@@ -1,0 +1,177 @@
+PODS:
+  - AFNetworking (1.3.3)
+  - Alamofire (4.7.2)
+  - AlamofireImage (3.3.1):
+    - Alamofire (~> 4.5)
+  - ALAssetsLibrary-CustomPhotoAlbum (1.3.4)
+  - ChartboostSDK (7.2.0)
+  - Firebase (4.13.0):
+    - Firebase/Core (= 4.13.0)
+  - Firebase/Analytics (4.13.0):
+    - Firebase/Core
+  - Firebase/Core (4.13.0):
+    - FirebaseAnalytics (= 4.2.0)
+    - FirebaseCore (= 4.0.20)
+  - Firebase/Database (4.13.0):
+    - Firebase/Core
+    - FirebaseDatabase (= 4.1.5)
+  - Firebase/RemoteConfig (4.13.0):
+    - Firebase/Core
+    - FirebaseRemoteConfig (= 2.1.3)
+  - FirebaseABTesting (1.0.0):
+    - FirebaseCore (~> 4.0)
+    - Protobuf (~> 3.1)
+  - FirebaseAnalytics (4.2.0):
+    - FirebaseCore (~> 4.0)
+    - FirebaseInstanceID (~> 2.0)
+    - "GoogleToolboxForMac/NSData+zlib (~> 2.1)"
+    - nanopb (~> 0.3)
+  - FirebaseCore (4.0.20):
+    - "GoogleToolboxForMac/NSData+zlib (~> 2.1)"
+  - FirebaseDatabase (4.1.5):
+    - FirebaseAnalytics (~> 4.1)
+    - FirebaseCore (~> 4.0)
+    - leveldb-library (~> 1.18)
+  - FirebaseInstanceID (2.0.10):
+    - FirebaseCore (~> 4.0)
+  - FirebaseRemoteConfig (2.1.3):
+    - FirebaseABTesting (~> 1.0)
+    - FirebaseAnalytics (~> 4.1)
+    - FirebaseCore (~> 4.0)
+    - FirebaseInstanceID (~> 2.0)
+    - "GoogleToolboxForMac/NSData+zlib (~> 2.1)"
+    - Protobuf (~> 3.5)
+  - Flurry-iOS-SDK (8.6.1):
+    - Flurry-iOS-SDK/FlurrySDK (= 8.6.1)
+  - Flurry-iOS-SDK/FlurrySDK (8.6.1)
+  - FXLabel (1.5.9)
+  - Google-Mobile-Ads-SDK (7.31.0)
+  - GoogleAnalytics (3.17.0)
+  - GoogleToolboxForMac/Defines (2.1.4)
+  - "GoogleToolboxForMac/NSData+zlib (2.1.4)":
+    - GoogleToolboxForMac/Defines (= 2.1.4)
+  - HapticHelper (1.0.1)
+  - iNotify (1.5.6)
+  - iRate (1.12.2)
+  - leveldb-library (1.20)
+  - MBProgressHUD (1.1.0)
+  - nanopb (0.3.8):
+    - nanopb/decode (= 0.3.8)
+    - nanopb/encode (= 0.3.8)
+  - nanopb/decode (0.3.8)
+  - nanopb/encode (0.3.8)
+  - "NSDate+TimeAgo (1.0.6)"
+  - NSDate-Extensions (0.0.1)
+  - NYXImagesKit (2.3)
+  - OpenUDID (1.0.0)
+  - Protobuf (3.5.0)
+  - Reachability (3.2)
+  - SDWebImage (4.4.0):
+    - SDWebImage/Core (= 4.4.0)
+  - SDWebImage/Core (4.4.0)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (4.1.0)
+  - UIAlertView-Blocks (1.0)
+
+DEPENDENCIES:
+  - AFNetworking (= 1.3.3)
+  - Alamofire
+  - AlamofireImage
+  - ALAssetsLibrary-CustomPhotoAlbum
+  - ChartboostSDK
+  - Firebase (~> 4.8)
+  - Firebase/Analytics
+  - Firebase/Database
+  - Firebase/RemoteConfig
+  - Flurry-iOS-SDK
+  - FXLabel
+  - Google-Mobile-Ads-SDK
+  - GoogleAnalytics
+  - HapticHelper
+  - iNotify
+  - iRate
+  - MBProgressHUD
+  - "NSDate+TimeAgo"
+  - NSDate-Extensions
+  - NYXImagesKit
+  - OpenUDID
+  - Reachability
+  - SDWebImage
+  - SVProgressHUD
+  - SwiftyJSON
+  - UIAlertView-Blocks
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - Alamofire
+    - AlamofireImage
+    - ALAssetsLibrary-CustomPhotoAlbum
+    - ChartboostSDK
+    - Firebase
+    - FirebaseABTesting
+    - FirebaseAnalytics
+    - FirebaseCore
+    - FirebaseDatabase
+    - FirebaseInstanceID
+    - FirebaseRemoteConfig
+    - Flurry-iOS-SDK
+    - FXLabel
+    - Google-Mobile-Ads-SDK
+    - GoogleAnalytics
+    - GoogleToolboxForMac
+    - HapticHelper
+    - iNotify
+    - iRate
+    - leveldb-library
+    - MBProgressHUD
+    - nanopb
+    - "NSDate+TimeAgo"
+    - NSDate-Extensions
+    - NYXImagesKit
+    - OpenUDID
+    - Protobuf
+    - Reachability
+    - SDWebImage
+    - SVProgressHUD
+    - SwiftyJSON
+    - UIAlertView-Blocks
+
+SPEC CHECKSUMS:
+  AFNetworking: 127629aef6e631d57291c25154defc678c8a7337
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  AlamofireImage: 3b35b586853abaf94ca1250f4e94cff3c21a4c0d
+  ALAssetsLibrary-CustomPhotoAlbum: 73ce379e8bef8bb6ff2f286cd98461422f869fae
+  ChartboostSDK: 15386cd16c8a5d07bb75432d0fafafd6134eedb1
+  Firebase: 5ec5e863d269d82d66b4bf56856726f8fb8f0fb3
+  FirebaseABTesting: d07d0ee833b842d5153549e4c7e2e2cb1c23a3f9
+  FirebaseAnalytics: 7ef69e76a5142f643aeb47c780e1cdce4e23632e
+  FirebaseCore: 90cb1c53d69b556f112a1bf72b5fcfaad7650790
+  FirebaseDatabase: 5f0bc6134c5c237cf55f9e1249d406770a75eafd
+  FirebaseInstanceID: 8d20d890d65c917f9f7d9950b6e10a760ad34321
+  FirebaseRemoteConfig: 3e95fb7c072308492e85fa41d59d38b3d6fd2372
+  Flurry-iOS-SDK: daffe3d0afa95b7b0f1a803f2b708a926ecbf833
+  FXLabel: 877f56a3e0ef76b223c67dea3f442c12d3a1d55c
+  Google-Mobile-Ads-SDK: 6e529e748b45507a2ca904e0b5a52669ba3920c4
+  GoogleAnalytics: f42cc53a87a51fe94334821868d9c8481ff47a7b
+  GoogleToolboxForMac: 91c824d21e85b31c2aae9bb011c5027c9b4e738f
+  HapticHelper: 0cccef18b9612abbc7881a8e7d5fbc144face328
+  iNotify: 1e3e7c3655190dcc555700d115b93806f61d2cd6
+  iRate: 4fc69958788624545e5d050c8ffd20884013c3f1
+  leveldb-library: 08cba283675b7ed2d99629a4bc5fd052cd2bb6a5
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  nanopb: 5601e6bca2dbf1ed831b519092ec110f66982ca3
+  "NSDate+TimeAgo": 35601c619b2d59290055e4fe76e61d97677a2360
+  NSDate-Extensions: cbd68ecf5cf8a150644e184b4521d7734fea5ace
+  NYXImagesKit: 8163e3335a40eaa173ca5bbbf81fafb57d3947eb
+  OpenUDID: e7cb6984c7304906ad20f3a36bf087b025896b6b
+  Protobuf: 8a9838fba8dae3389230e1b7f8c104aa32389c03
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SDWebImage: b534502786e43dde36dfcaee89356fe6df30e203
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+  UIAlertView-Blocks: 7904744fca618afbd2ec646608924f5e69d5acd1
+
+PODFILE CHECKSUM: 70e5307d9b8da1401393daab32f010ac9ee9a6ea
+
+COCOAPODS: 1.5.3

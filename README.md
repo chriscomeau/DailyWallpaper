@@ -6,7 +6,8 @@ Daily Wallpaper for iOS
 ##### Notes
 
 * Skyriser Media, 2012
-* Objective-C
+* Objective-C / Swift
+* TodayWidget extension
 * ...
 
 **Note**: This project is for reference only and does not compile. Some image/sound assets and libraries were removed.

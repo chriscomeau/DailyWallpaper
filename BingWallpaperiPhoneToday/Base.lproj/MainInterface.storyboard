@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="M4Y-Lb-cyx">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Today View Controller-->
+        <scene sceneID="cwh-vc-ff4">
+            <objects>
+                <viewController id="M4Y-Lb-cyx" customClass="TodayViewController" customModule="BingWallpaperiPhoneToday" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" simulatedAppContext="notificationCenter" id="S3S-Oj-5AN">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="100"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="top" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="n4W-Vw-cTL">
+                                <rect key="frame" x="164" y="5" width="151" height="90"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                                <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="placeholder" translatesAutoresizingMaskIntoConstraints="NO" id="LbI-N2-p5k">
+                                <rect key="frame" x="4" y="4" width="150" height="92"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="150" id="Y0Q-tX-c3B"/>
+                                </constraints>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="XlY-8m-fMB">
+                                <rect key="frame" x="5" y="5" width="310" height="90"/>
+                                <connections>
+                                    <action selector="actionApp:" destination="M4Y-Lb-cyx" eventType="touchUpInside" id="qSF-iA-6tw"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <constraints>
+                            <constraint firstItem="ssy-KU-ocm" firstAttribute="bottom" secondItem="n4W-Vw-cTL" secondAttribute="bottom" constant="5" id="06r-Qt-Kbt"/>
+                            <constraint firstItem="LbI-N2-p5k" firstAttribute="top" secondItem="ssy-KU-ocm" secondAttribute="top" constant="4" id="3s4-Sw-ymN"/>
+                            <constraint firstItem="XlY-8m-fMB" firstAttribute="leading" secondItem="ssy-KU-ocm" secondAttribute="leading" constant="5" id="Hx1-pT-x4c"/>
+                            <constraint firstItem="XlY-8m-fMB" firstAttribute="top" secondItem="ssy-KU-ocm" secondAttribute="top" constant="5" id="MVM-rl-Wpu"/>
+                            <constraint firstItem="LbI-N2-p5k" firstAttribute="bottom" secondItem="ssy-KU-ocm" secondAttribute="bottom" constant="-4" id="Mpa-HP-Sui"/>
+                            <constraint firstItem="n4W-Vw-cTL" firstAttribute="leading" secondItem="LbI-N2-p5k" secondAttribute="trailing" constant="10" id="NWf-pR-tnH"/>
+                            <constraint firstItem="ssy-KU-ocm" firstAttribute="bottom" secondItem="XlY-8m-fMB" secondAttribute="bottom" constant="5" id="cIN-v3-Jr0"/>
+                            <constraint firstItem="ssy-KU-ocm" firstAttribute="trailing" secondItem="n4W-Vw-cTL" secondAttribute="trailing" constant="5" id="hRc-hR-FGm"/>
+                            <constraint firstItem="LbI-N2-p5k" firstAttribute="leading" secondItem="ssy-KU-ocm" secondAttribute="leading" constant="4" id="kfS-I8-NmO"/>
+                            <constraint firstItem="n4W-Vw-cTL" firstAttribute="top" secondItem="ssy-KU-ocm" secondAttribute="top" constant="5" id="uRn-3U-IYz"/>
+                            <constraint firstItem="ssy-KU-ocm" firstAttribute="trailing" secondItem="XlY-8m-fMB" secondAttribute="trailing" constant="5" id="yOF-SY-mLS"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="ssy-KU-ocm"/>
+                    </view>
+                    <extendedEdge key="edgesForExtendedLayout"/>
+                    <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+                    <size key="freeformSize" width="320" height="100"/>
+                    <connections>
+                        <outlet property="imageView" destination="LbI-N2-p5k" id="2JZ-fn-eFu"/>
+                        <outlet property="label" destination="n4W-Vw-cTL" id="C4P-SN-8HC"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="vXp-U4-Rya" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="115.2" y="74.662668665667169"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="placeholder" width="200" height="112"/>
+    </resources>
+</document>
