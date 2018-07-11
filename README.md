@@ -8,9 +8,10 @@ Daily Wallpaper for iOS
 * Skyriser Media, 2012
 * Objective-C / Swift
 * TodayWidget extension
-* ...
+* REST connection to custom PHP API
+* Image caching
 
-**Note**: This project is for reference only and does not compile. Some image/sound assets and libraries were removed.
+**Note**: This project is for reference only and does not compile. Some image/sound/API assets and libraries were removed.
 
 
 ##### Links
