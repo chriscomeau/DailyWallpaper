@@ -13,8 +13,8 @@
 #import <SystemConfiguration/SCNetworkReachability.h>
 #import "Reachability.h"
 #import "SVProgressHUD.h"
-#import "ChimpKit.h"
-#import "SubscribeAlertView.h"
+//#import "ChimpKit.h"
+//#import "SubscribeAlertView.h"
 #import <ImageIO/ImageIO.h>
 #import <ImageIO/CGImageSource.h>
 #import <ImageIO/CGImageProperties.h>
@@ -300,6 +300,7 @@
 }
 */
 
+#if 0
 + (void)initMailChimp:(id)sender
 {
     //mailchimp
@@ -387,8 +388,7 @@
         
     });
 }
-
-
+#endif
 
 + (void)initGoogleAnalytics
 {

@@ -62,13 +62,6 @@
 		835835BB1844BF30005E05E8 /* Config.h in Headers */ = {isa = PBXBuildFile; fileRef = 835835B81844BF30005E05E8 /* Config.h */; };
 		835835BC1844BF30005E05E8 /* Helpers.h in Headers */ = {isa = PBXBuildFile; fileRef = 835835B91844BF30005E05E8 /* Helpers.h */; };
 		835835BD1844BF30005E05E8 /* Helpers.m in Sources */ = {isa = PBXBuildFile; fileRef = 835835BA1844BF30005E05E8 /* Helpers.m */; };
-		835835D31844BFDD005E05E8 /* ChimpKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 835835CB1844BFDD005E05E8 /* ChimpKit.h */; };
-		835835D41844BFDD005E05E8 /* ChimpKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 835835CC1844BFDD005E05E8 /* ChimpKit.m */; };
-		835835D51844BFDD005E05E8 /* CKAuthViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 835835CD1844BFDD005E05E8 /* CKAuthViewController.h */; };
-		835835D61844BFDD005E05E8 /* CKAuthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 835835CE1844BFDD005E05E8 /* CKAuthViewController.m */; };
-		835835D71844BFDD005E05E8 /* SubscribeAlertView.h in Headers */ = {isa = PBXBuildFile; fileRef = 835835CF1844BFDD005E05E8 /* SubscribeAlertView.h */; };
-		835835D81844BFDD005E05E8 /* SubscribeAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = 835835D01844BFDD005E05E8 /* SubscribeAlertView.m */; };
-		835835D91844BFDD005E05E8 /* CKAuthViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 835835D21844BFDD005E05E8 /* CKAuthViewController.xib */; };
 		835836051844FCB3005E05E8 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 835836041844FCB3005E05E8 /* CoreData.framework */; };
 		8358360C18451D99005E05E8 /* button3.png in Resources */ = {isa = PBXBuildFile; fileRef = 8358360A18451D98005E05E8 /* button3.png */; };
 		8358360D18451D99005E05E8 /* button3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8358360B18451D99005E05E8 /* button3@2x.png */; };
@@ -102,8 +95,6 @@
 		839C831D160644EF0030A2B7 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 839C831C160644EF0030A2B7 /* Default-568h@2x.png */; };
 		839C832116064B5E0030A2B7 /* lockscreen_iphone5.png in Resources */ = {isa = PBXBuildFile; fileRef = 839C832016064B5E0030A2B7 /* lockscreen_iphone5.png */; };
 		83A87BC0116C3BDA00EF57CE /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 83A87BBF116C3BDA00EF57CE /* Default.png */; };
-		83ADEA7515DDD43300006FED /* century_gothic.TTF in Resources */ = {isa = PBXBuildFile; fileRef = 83ADEA7315DDD43300006FED /* century_gothic.TTF */; };
-		83ADEA7615DDD43300006FED /* gothicb.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 83ADEA7415DDD43300006FED /* gothicb.ttf */; };
 		83ADEA7A15DDD63500006FED /* FirstView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 83ADEA7915DDD63500006FED /* FirstView.xib */; };
 		83AE66CB16493ED8001940F7 /* ad_back@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 83AE66C816493ED8001940F7 /* ad_back@2x.png */; };
 		83B60E0215EA972300BD7B19 /* badge.png in Resources */ = {isa = PBXBuildFile; fileRef = 83B60E0115EA972300BD7B19 /* badge.png */; };
@@ -290,13 +281,6 @@
 		835835B81844BF30005E05E8 /* Config.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Config.h; sourceTree = "<group>"; };
 		835835B91844BF30005E05E8 /* Helpers.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Helpers.h; sourceTree = "<group>"; };
 		835835BA1844BF30005E05E8 /* Helpers.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Helpers.m; sourceTree = "<group>"; };
-		835835CB1844BFDD005E05E8 /* ChimpKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChimpKit.h; sourceTree = "<group>"; };
-		835835CC1844BFDD005E05E8 /* ChimpKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChimpKit.m; sourceTree = "<group>"; };
-		835835CD1844BFDD005E05E8 /* CKAuthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CKAuthViewController.h; sourceTree = "<group>"; };
-		835835CE1844BFDD005E05E8 /* CKAuthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CKAuthViewController.m; sourceTree = "<group>"; };
-		835835CF1844BFDD005E05E8 /* SubscribeAlertView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SubscribeAlertView.h; sourceTree = "<group>"; };
-		835835D01844BFDD005E05E8 /* SubscribeAlertView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SubscribeAlertView.m; sourceTree = "<group>"; };
-		835835D21844BFDD005E05E8 /* CKAuthViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CKAuthViewController.xib; sourceTree = "<group>"; };
 		835836041844FCB3005E05E8 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		8358360A18451D98005E05E8 /* button3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = button3.png; path = assets/button3.png; sourceTree = "<group>"; };
 		8358360B18451D99005E05E8 /* button3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "button3@2x.png"; path = "assets/button3@2x.png"; sourceTree = "<group>"; };
@@ -335,8 +319,6 @@
 		839C831C160644EF0030A2B7 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		839C832016064B5E0030A2B7 /* lockscreen_iphone5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = lockscreen_iphone5.png; path = assets/lockscreen_iphone5.png; sourceTree = "<group>"; };
 		83A87BBF116C3BDA00EF57CE /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
-		83ADEA7315DDD43300006FED /* century_gothic.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; path = century_gothic.TTF; sourceTree = "<group>"; };
-		83ADEA7415DDD43300006FED /* gothicb.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = gothicb.ttf; sourceTree = "<group>"; };
 		83ADEA7915DDD63500006FED /* FirstView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FirstView.xib; sourceTree = "<group>"; };
 		83AE66C816493ED8001940F7 /* ad_back@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ad_back@2x.png"; path = "assets/ad_back@2x.png"; sourceTree = "<group>"; };
 		83B60E0115EA972300BD7B19 /* badge.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = badge.png; path = assets/badge.png; sourceTree = "<group>"; };
@@ -519,7 +501,6 @@
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
 				8329E87215D20E1900AA6059 /* Views */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
-				83ADEA7215DDD43300006FED /* Fonts */,
 				8326BAC5152D4F3E009B8D65 /* Images */,
 				8326BAC6152D4F43009B8D65 /* Sounds */,
 				838D34DE1521550F00AEA480 /* Libs */,
@@ -747,45 +728,6 @@
 			name = iPhone;
 			sourceTree = "<group>";
 		};
-		835835C81844BFD4005E05E8 /* ChimpKit */ = {
-			isa = PBXGroup;
-			children = (
-				835835C91844BFDD005E05E8 /* Core */,
-			);
-			name = ChimpKit;
-			sourceTree = "<group>";
-		};
-		835835C91844BFDD005E05E8 /* Core */ = {
-			isa = PBXGroup;
-			children = (
-				835835CA1844BFDD005E05E8 /* Classes */,
-				835835D11844BFDD005E05E8 /* Nibs */,
-			);
-			name = Core;
-			path = ChimpKit2/Core;
-			sourceTree = SOURCE_ROOT;
-		};
-		835835CA1844BFDD005E05E8 /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				835835CB1844BFDD005E05E8 /* ChimpKit.h */,
-				835835CC1844BFDD005E05E8 /* ChimpKit.m */,
-				835835CD1844BFDD005E05E8 /* CKAuthViewController.h */,
-				835835CE1844BFDD005E05E8 /* CKAuthViewController.m */,
-				835835CF1844BFDD005E05E8 /* SubscribeAlertView.h */,
-				835835D01844BFDD005E05E8 /* SubscribeAlertView.m */,
-			);
-			path = Classes;
-			sourceTree = "<group>";
-		};
-		835835D11844BFDD005E05E8 /* Nibs */ = {
-			isa = PBXGroup;
-			children = (
-				835835D21844BFDD005E05E8 /* CKAuthViewController.xib */,
-			);
-			path = Nibs;
-			sourceTree = "<group>";
-		};
 		83634ED815DAA61700488419 /* Cell */ = {
 			isa = PBXGroup;
 			children = (
@@ -822,22 +764,11 @@
 		838D34DE1521550F00AEA480 /* Libs */ = {
 			isa = PBXGroup;
 			children = (
-				835835C81844BFD4005E05E8 /* ChimpKit */,
 				8326BB0A153394FD009B8D65 /* libsqlite3.dylib */,
 				83E3CCE415D1FDF50051E8F4 /* libz.dylib */,
 			);
 			name = Libs;
 			path = Classes;
-			sourceTree = "<group>";
-		};
-		83ADEA7215DDD43300006FED /* Fonts */ = {
-			isa = PBXGroup;
-			children = (
-				83ADEA7315DDD43300006FED /* century_gothic.TTF */,
-				83ADEA7415DDD43300006FED /* gothicb.ttf */,
-			);
-			name = Fonts;
-			path = assets/Fonts;
 			sourceTree = "<group>";
 		};
 		83B8254A170A1EF8008C8B6F /* welcome */ = {
@@ -905,10 +836,7 @@
 				831B122C16FF35360032D5F5 /* BingWallpaperIAPHelper.h in Headers */,
 				83B8253B170A1E71008C8B6F /* MHPagingScrollView.h in Headers */,
 				83B82544170A1E7D008C8B6F /* WelcomePageView.h in Headers */,
-				835835D71844BFDD005E05E8 /* SubscribeAlertView.h in Headers */,
 				83FF2CD3186463C700A13C9D /* UIImage+Utilities.h in Headers */,
-				835835D51844BFDD005E05E8 /* CKAuthViewController.h in Headers */,
-				835835D31844BFDD005E05E8 /* ChimpKit.h in Headers */,
 				83B82546170A1E7D008C8B6F /* WelcomeViewController.h in Headers */,
 				835835BB1844BF30005E05E8 /* Config.h in Headers */,
 				835835B61844BEE3005E05E8 /* NSString+Utilities.h in Headers */,
@@ -1042,7 +970,6 @@
 				8326BAD6152D5179009B8D65 /* versions.plist in Resources */,
 				8334F8C918116F41008A4EAC /* leftButtonBadge.png in Resources */,
 				8326BAE715332768009B8D65 /* ArchiveView.xib in Resources */,
-				835835D91844BFDD005E05E8 /* CKAuthViewController.xib in Resources */,
 				837AA7A520BCE3690091DE46 /* noads.png in Resources */,
 				8326BAF2153388A2009B8D65 /* skyriser.png in Resources */,
 				8326BAF4153388D9009B8D65 /* qr_app.png in Resources */,
@@ -1064,8 +991,6 @@
 				83634ECF15DAA32E00488419 /* TableViewCell.xib in Resources */,
 				83634ED715DAA61400488419 /* cell_back.png in Resources */,
 				83634EDA15DAA62E00488419 /* thumbMissing.png in Resources */,
-				83ADEA7515DDD43300006FED /* century_gothic.TTF in Resources */,
-				83ADEA7615DDD43300006FED /* gothicb.ttf in Resources */,
 				8334F8CA18116F41008A4EAC /* leftButtonBadge@2x.png in Resources */,
 				83ADEA7A15DDD63500006FED /* FirstView.xib in Resources */,
 				834B1FD515DE971F006BCEB2 /* cell_back2.png in Resources */,
@@ -1294,10 +1219,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				835835D81844BFDD005E05E8 /* SubscribeAlertView.m in Sources */,
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
 				28216C970DB411BC00E5133A /* FirstViewController.m in Sources */,
-				835835D41844BFDD005E05E8 /* ChimpKit.m in Sources */,
 				835835BD1844BF30005E05E8 /* Helpers.m in Sources */,
 				8344C4D314BE997C000922C8 /* BingWallpaperiPhoneAppDelegate.m in Sources */,
 				8326BAEA153327F1009B8D65 /* ArchiveViewController.m in Sources */,
@@ -1305,7 +1228,6 @@
 				8326BB1D1533A69E009B8D65 /* QRViewController.m in Sources */,
 				8326BB201533D2C5009B8D65 /* MyApplication.m in Sources */,
 				83FF2CD2186463C700A13C9D /* UIImage+Utilities.m in Sources */,
-				835835D61844BFDD005E05E8 /* CKAuthViewController.m in Sources */,
 				83634ECC15DAA2F900488419 /* TableViewCell.m in Sources */,
 				83E692D219508ABC00F31F84 /* GTMNSString+HTML.m in Sources */,
 				83634ECD15DAA2F900488419 /* TableViewCellController.m in Sources */,
