@@ -23,5 +23,5 @@ Daily Wallpaper for iOS
 
 ![screenshot 1](http://dailywallpaperapp.com/images/screenshot1.jpg)
 ![screenshot 2](http://dailywallpaperapp.com/images/screenshot2.jpg)
-![screenshot 3](http://dailywallpaperapp.com/images/screenshot3.jpg)
+![screenshot 3](http://dailywallpaperapp.com/images/screenshot4.jpg)
 
