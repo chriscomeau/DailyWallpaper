@@ -118,11 +118,11 @@ class TodayViewController: UIViewController, NCWidgetProviding {
     
     func widgetMarginInsetsForProposedMarginInsets(defaultMarginInsets: UIEdgeInsets) -> UIEdgeInsets {
         //enlever marge
-        return UIEdgeInsetsMake(0, 0, 0, 0)
+      return UIEdgeInsets(top: 0, left: 0, bottom: 0, right: 0)
     }
     
     func widgetMarginInsets(forProposedMarginInsets defaultMarginInsets: UIEdgeInsets) -> UIEdgeInsets {
-        return UIEdgeInsetsMake(0, 0, 0, 0)
+      return UIEdgeInsets(top: 0, left: 0, bottom: 0, right: 0)
     }
 
     
