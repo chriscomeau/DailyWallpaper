@@ -1,3 +1,5 @@
+[![Swift 5.0](https://img.shields.io/badge/swift-5.0-green.svg?style=flat)](https://developer.apple.com/swift) ![](https://img.shields.io/badge/language-Objective--C-orange.svg) [![Twitter](https://img.shields.io/badge/twitter-@chriscomeau-blue.svg)](http://twitter.com/chriscomeau)
+
 # DailyWallpaper
 Daily Wallpaper for iOS
 
