@@ -1,4 +1,4 @@
-[![Swift 5.0](https://img.shields.io/badge/swift-5.0-green.svg?style=flat)](https://developer.apple.com/swift) ![](https://img.shields.io/badge/language-Objective--C-orange.svg) [![Twitter](https://img.shields.io/badge/twitter-@chriscomeau-blue.svg)](http://twitter.com/chriscomeau)
+[![Swift 4.2](https://img.shields.io/badge/swift-4.2-red.svg?style=flat)](https://developer.apple.com/swift)  ![](https://img.shields.io/badge/language-Objective--C-orange.svg) [![Twitter](https://img.shields.io/badge/twitter-@chriscomeau-blue.svg)](http://twitter.com/chriscomeau)
 
 # DailyWallpaper
 Daily Wallpaper for iOS
@@ -8,7 +8,7 @@ Daily Wallpaper for iOS
 ## Notes
 
 * Skyriser Media, 2012
-* Objective-C / Swift 5.0
+* Objective-C, Swift 4.2
 * TodayWidget extension
 * REST connection to custom PHP API
 * Image caching
