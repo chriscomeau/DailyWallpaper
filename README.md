@@ -1,4 +1,4 @@
-[![Swift 4.2](https://img.shields.io/badge/swift-4.2-red.svg?style=flat)](https://developer.apple.com/swift)  ![](https://img.shields.io/badge/language-Objective--C-orange.svg) [![Twitter](https://img.shields.io/badge/twitter-@chriscomeau-blue.svg)](http://twitter.com/chriscomeau)
+[![Swift 4.2](https://img.shields.io/badge/swift-4.2-red.svg?style=flat)](https://developer.apple.com/swift)  ![](https://img.shields.io/badge/language-Objective--C-orange.svg) [![iOS](https://img.shields.io/badge/platform-iOS-lightgray.svg?style=flat)](https://developer.apple.com/) [![Twitter](https://img.shields.io/badge/twitter-@chriscomeau-blue.svg)](http://twitter.com/chriscomeau)
 
 # DailyWallpaper
 Daily Wallpaper for iOS
@@ -66,7 +66,7 @@ Daily Wallpaper for iOS
 ![screenshot 3](http://dailywallpaperapp.com/images/screenshot4.jpg)
 
 
-## Contact
+## Author
 
 * Chris Comeau
 * iOS Developer, Montreal, Canada
